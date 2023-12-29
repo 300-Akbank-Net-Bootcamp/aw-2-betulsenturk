@@ -1,5 +1,5 @@
 
-<h1>Ödevi Master branch'a push'ladım. Main branch'taki klasörlern içi boş görünüyor.</h1>
+<h1>Ödevi Master branch'a push'ladım. Main branch'taki klasörlerin içi boş görünüyor.</h1>
 
 
 
